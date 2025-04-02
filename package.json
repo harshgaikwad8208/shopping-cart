@@ -1,0 +1,13 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "Calculate total cost of a shopping basket",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
